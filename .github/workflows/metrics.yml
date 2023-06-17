@@ -58,6 +58,3 @@ jobs:
           plugin_notable_types: commit
           plugin_stars: yes
           plugin_stars_limit: 4
-          plugin_tweets: yes
-          plugin_tweets_limit: 2
-          plugin_tweets_user: realHerrSammy
